@@ -29,7 +29,7 @@ modules in Python. I further practiced using the builtin function
 * **3. Infinite addition**
   * [3-infinite_add.py](./3-infinite_add.py): Python program that prints the result of the
   addition of all arguments.
-  * Output: Sum of the arguments followed by a new line.
+  * Output: Sum of the arguments followed by a new line
 
 * **4. Who are you?**
   * [4-hidden_discovery.py](./4-hidden_discovery.py): Python program that prints all the
